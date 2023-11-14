@@ -3,6 +3,7 @@ Online Version: https://epub.stoneapp.tech/
 
 ## Requirements
 - Python 3.6 or newer
+- Notes for MAC: install opencc package using 'pip install opencc-python-reimplemented' instead of 'pip install opencc'
 
 ## Libraries
 - Flask >= 0.13.0
